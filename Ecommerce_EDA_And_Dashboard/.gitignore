@@ -15,3 +15,7 @@ venv/
 # Data files
 data/raw/*
 data/cleaned/*
+# Ignore database files
+*.db
+*.sqlite
+*.sqlite3
